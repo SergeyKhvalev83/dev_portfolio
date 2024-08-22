@@ -1,15 +1,10 @@
 'use client'
 
-import React, {useEffect, useState} from 'react';
+import React, {useState} from 'react';
 
 const IntoSection = () => {
   const [classes, setClasses] = useState("")
-
-  useEffect(()=>{
-    setClasses("visible")
-  }, [])
-
-
+  
   return (
     <section id="intro" className={classes}>
     <div>
