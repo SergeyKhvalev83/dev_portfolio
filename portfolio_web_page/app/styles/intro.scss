@@ -1,3 +1,61 @@
-section#intro{
-  background-color:#34353A;
+section#intro {
+  display: flex;
+  max-width: 780px;
+  margin: 0 auto;
+  align-items: center;
+  justify-content: space-between;
+}
+
+section#intro p {
+  color: #fff;
+  font-size: 1.8rem;
+  line-height: 2.5rem;
+  text-align: left;
+  opacity: 0;
+  transition: all .3s linear;
+  position: relative;
+  top: -50px;
+}
+
+section#intro.visible p {
+  opacity: 1;
+  top: 0;
+}
+
+
+section#intro a {
+  border: 3px solid $gold;
+  border-radius: 7px;
+  color: $gold;
+  padding: 10px 20px;
+  text-decoration: none;
+  display: inline-block;
+  margin-top: 20px;
+  font-size: 1.4rem;
+  opacity: 0;
+  transition: all .3s linear;
+  position: relative;
+  bottom: -50px;
+}
+
+section#intro.visible a {
+  opacity: 1;
+  bottom: 0;
+}
+
+section#intro span {
+  color: $gold;
+  font-size: 3.2rem;
+  font-family: "Source Serif 4", serif;
+  font-weight: 600;
+}
+
+section#intro img {
+  max-width: 300px;
+  opacity: 0;
+  transition: opacity 0.4s linear;
+}
+
+section#intro.visible img {
+  opacity: 1;
 }
