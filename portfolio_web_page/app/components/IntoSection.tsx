@@ -15,7 +15,7 @@ const IntoSection = () => {
         code enthusiast and youtuber
         <br />
       </p>
-      <a href="">Contact me</a>
+      <a href="#contacts">Contact me</a>
     </div>
     <div>
       <img src="/img/me.jpg" alt="photo"></img>
