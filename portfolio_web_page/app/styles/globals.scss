@@ -9,24 +9,25 @@ $gold: #f6c66f;
   padding: 0;
   box-sizing: border-box;
 }
+html {
+  scroll-behavior: smooth;
+}
 
 body {
   background-color: #34353a;
   font-family: "Roboto", sans-serif;
   color: #ffff;
   overflow-x: hidden;
-
 }
 
-.center{
+.center {
   max-width: 780px;
   margin: 0 auto;
 }
 
-h2{
- font-family: "Source Serif 4", serif;
- font-size: 3rem;
- font-weight: 600;
- margin-bottom: 10px;
-
+h2 {
+  font-family: "Source Serif 4", serif;
+  font-size: 3rem;
+  font-weight: 600;
+  margin-bottom: 10px;
 }

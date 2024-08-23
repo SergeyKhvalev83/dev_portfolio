@@ -5,9 +5,9 @@ const HeaderComponent = () => {
     <header>
         <img src="/img/logo.jpg" alt="logo" />
         <nav className="">
-          <a href="">About me</a>
-          <a href="">Portfolio</a>
-          <a href="">Contacts</a>
+          <a href="#about">About me</a>
+          <a href="#portfolio">Portfolio</a>
+          <a href="#contacts">Contacts</a>
         </nav>
         <div className="social">
           <a href="">

@@ -1,0 +1,38 @@
+footer {
+  background-color: #31333b;
+  div.social {
+    display: flex;
+    div.line {
+      border-top: 2px solid $gold;
+      flex-grow: 1;
+    }
+    div.links{
+      padding: 0 25px;
+      a{
+        position: relative;
+        top: -12px;
+        padding: 0 6px;
+      }
+    }
+  }
+  h2{
+    margin-bottom: 0;
+    text-align: center;
+    padding: 40px 0;
+    color: $gold;
+    font-size: 2rem;
+    font-weight: normal;
+  }
+}
+
+footer div.social a svg {
+  height: 23px;
+  fill: #fff;
+  display: inline-block;
+  margin: 0 10px;
+}
+
+.icon-ref {
+  font-size: xx-small;
+  text-align: center;
+}

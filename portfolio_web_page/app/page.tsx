@@ -7,6 +7,7 @@ import IntoSection from "./components/IntoSection";
 import SkillsSection from "./components/SkillsSection";
 import PortfolioSection from "./components/PortfolioSection";
 import ExperienceSections from "./components/ExperienceSections";
+import ContactsSection from "./components/ContactsSection";
 
 export default function Home() {
   useEffect(() => {
@@ -42,6 +43,7 @@ export default function Home() {
         <SkillsSection />
         <PortfolioSection/>
         <ExperienceSections/>
+        <ContactsSection/>
       </main>
       <FooterSection />
     </>
