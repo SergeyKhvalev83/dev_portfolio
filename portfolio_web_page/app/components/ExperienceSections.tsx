@@ -23,7 +23,7 @@ const ExperienceSections = () => {
                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
                 Accusamus ad eaque, quibusdam necessitatibus ducimus earum
                 molestiae rerum nisi quas non nobis nemo perferendis, voluptas
-                amet, in illum obcaecati unde molestias.
+                amet, in illum obcaecati unde molestias. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptate molestiae ratione porro distinctio officiis, perferendis incidunt quisquam hic a, beatae fuga ipsum est libero consequatur sequi quasi minus ea? Possimus.
               </p>
             </div>
           </div>
@@ -43,7 +43,7 @@ const ExperienceSections = () => {
                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
                 Accusamus ad eaque, quibusdam necessitatibus ducimus earum
                 molestiae rerum nisi quas non nobis nemo perferendis, voluptas
-                amet, in illum obcaecati unde molestias.
+                amet, in illum obcaecati unde molestias. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio, facilis! Nihil laboriosam sunt expedita asperiores voluptatem deserunt, sit laborum ex repudiandae in nam tempora, quidem totam labore aut ea rem?
               </p>
             </div>
           </div>
@@ -62,7 +62,7 @@ const ExperienceSections = () => {
                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
                 Accusamus ad eaque, quibusdam necessitatibus ducimus earum
                 molestiae rerum nisi quas non nobis nemo perferendis, voluptas
-                amet, in illum obcaecati unde molestias.
+                amet, in illum obcaecati unde molestias. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione doloribus repellendus aperiam hic voluptatum? Provident aspernatur id tenetur praesentium illum, aperiam saepe possimus vero deserunt rerum ut magni? Unde, ipsum!
               </p>
             </div>
           </div>
