@@ -9,10 +9,10 @@ const PortfolioSection = () => {
         <h2>Portfolio</h2>
         <div className="portfolio-container">
           <a href="">
-            <img src="/img/mackbook.jpg" alt="" />
+            <img src="/img/workout_app_logo.jpg" alt="workout_logo" />
           </a>
           <a href="">
-            <img src="/img/mackbook2.jpg" alt="" />
+            <img src="/img/air_bnb_clon_logo.jpg" alt="airbnb_logo" />
           </a>
           <a href="">
             <img src="/img/mackbook3.jpg" alt="" />
