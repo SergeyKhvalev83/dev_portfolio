@@ -8,7 +8,7 @@ const PortfolioSection = () => {
       <div className="center">
         <h2>Portfolio</h2>
         <div className="portfolio-container">
-          <a href=""   target="_blank">
+          <a href="" target="_blank">
             <img src="/img/workout_app_logo.jpg" alt="workout_logo" />
           </a> 
           <a href="https://air-bnb-clone-mern-8157ba05deb7.herokuapp.com" target="_blank">

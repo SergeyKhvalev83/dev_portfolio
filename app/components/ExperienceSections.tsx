@@ -21,16 +21,17 @@ const ExperienceSections = () => {
               <h3>Software Development Engineer in test</h3>
               <h4>CareFirst BCBS</h4>
               <p>
-                • Responsible for daily smoke tests and maintenance of
+                Responsible for daily smoke tests and maintenance of
                 regression suit with over 700 cases. <br />
-                • Increased automation coverage by 45% by developing over 140
+                Increased automation coverage by 45% by developing over 140
                 automated test cases. <br />
-                • Worked with design and development teams to resolve found bugs
+                Worked with design and development teams to resolve found bugs
                 quickly. <br />
-                • Collaborated with the product owner and development team to
+                Collaborated with the product owner and development team to
                 analyze the requirements and provide feedback on the
                 application&apos;s functional and technical design.
-                <br />• Promoted within 10 months due to strong performance and
+                <br />
+                Promoted within 10 months due to strong performance and
                 organizational impact (one year ahead of schedule).
               </p>
             </div>
@@ -48,13 +49,13 @@ const ExperienceSections = () => {
               <h3>Software Engineer</h3>
               <h4>Wells Fargo</h4>
               <p>
-                •Developed and maintained 4+ web applications, using TypeScript, React, Express, CSS with a focus on user-centric design.
+                Developed and maintained 4+ web applications, using TypeScript, React, Express, CSS with a focus on user-centric design.
                 <br />
-                •Implemented scalable RESTful APIs to facilitate efficient client-server communication using Node.js, Express and Axios.
+                Implemented scalable RESTful APIs to facilitate efficient client-server communication using Node.js, Express and Axios.
                 <br />
-                •Developed custom RESTful APIs for third-party collaborations that expanded the web application functionality and user base by 20%.
+                Developed custom RESTful APIs for third-party collaborations that expanded the web application functionality and user base by 20%.
                 <br />
-                •Collaborated on a cross-functional team to redesign the user interface, improving user experience scores by 33%.
+                Collaborated on a cross-functional team to redesign the user interface, improving user experience scores by 33%.
               </p>
             </div>
           </div>
