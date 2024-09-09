@@ -10,11 +10,7 @@ const AboutMeSection = () => {
       <div className="center">
         <h2> About </h2>{" "}
         <p>
-          I have been involved in front-end development for over three years,
-          specializing in React.js and TypeScript. I have participated in
-          developing applications from scratch, setting up Webpack. I mainly use
-          the React, Redux-Toolkit, and TypeScript stack, and for testing, I use
-          Jest and react-testing-library, adhering to the FSD architecture.
+        Passionate Full Stack Developer with over 4 years of experience in modern web technologies, specializing in building engaging, user-centric applications. Skilled in JavaScript, TypeScript, React, and Redux, I create seamless, dynamic user experiences. My journey in web development is driven by continuous learning, staying ahead of industry trends, and consistently pushing the boundaries of what's possible on the web.
         </p>
       </div>
     </section>

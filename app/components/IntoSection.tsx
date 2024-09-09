@@ -12,7 +12,7 @@ const IntoSection = () => {
         I`m <span>Sergey Kvalev </span>
         <br />
         Frontend javascript developer, <br />
-        code enthusiast and youtuber
+        code enthusiast and tech communicator
         <br />
       </p>
       <a href="#contacts">Contact me</a>
