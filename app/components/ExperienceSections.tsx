@@ -29,7 +29,7 @@ const ExperienceSections = () => {
                 quickly. <br />
                 • Collaborated with the product owner and development team to
                 analyze the requirements and provide feedback on the
-                application's functional and technical design.
+                application&apos;s functional and technical design.
                 <br />• Promoted within 10 months due to strong performance and
                 organizational impact (one year ahead of schedule).
               </p>
