@@ -11,7 +11,7 @@ const PortfolioSection = () => {
           <a href="">
             <img src="/img/workout_app_logo.jpg" alt="workout_logo" />
           </a>
-          <a href="">
+          <a href="https://air-bnb-clone-mern-8157ba05deb7.herokuapp.com">
             <img src="/img/air_bnb_clon_logo.jpg" alt="airbnb_logo" />
           </a>
           <a href="">
