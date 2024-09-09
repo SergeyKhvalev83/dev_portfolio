@@ -1,5 +1,8 @@
 {
   "name": "portfolio_web_page",
+  "engines": {
+    "node": "v20.12.2"
+  },
   "version": "0.1.0",
   "private": true,
   "scripts": {
