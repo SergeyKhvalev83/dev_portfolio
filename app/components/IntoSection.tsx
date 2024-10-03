@@ -9,7 +9,7 @@ const IntoSection = () => {
     <section id="intro" className={classes}>
     <div>
       <p>
-        I`m <span>Sergey Kvalev </span>
+        I`m <span>Sergey Khvalev </span>
         <br />
         Frontend javascript developer, <br />
         code enthusiast and tech communicator
